@@ -10,3 +10,14 @@
 
 **Начато**: $(date +%Y-%m-%d)
 **Цель**: $(date -d "+7 days" +%Y-%m-%d)
+## Этап 1: Linux (запланирован)
+- [ ] Базовые команды (ls, cd, cp, mv, rm, find, grep)
+- [ ] Права файлов (chmod, chown)
+- [ ] Процессы (ps, top, kill, systemctl)
+- [ ] Сеть (ip, ss, curl, wget)
+- [ ] Текстовые редакторы (vim основы)
+- [ ] Shell scripting (bash)
+**Плановая дата начала**: 23-24 апреля
+
+## Общий план
+Цель: Senior DevOps за 12 месяцев
