@@ -21,11 +21,11 @@
 | stage-14-kafka-redis | Kafka + Redis |
 | stage-15-system-design | System Design + Architecture |
 | stage-16-chaos | Chaos Engineering + Incidents |
-| projects | 🧪 Контрольные проекты |
-| postmortems | 📋 Постмортемы |
-| runbooks | 📕 Runbooks |
-| adr | 🏛️ Architecture Decision Records |
-| interview-prep | 🎯 Подготовка к найму |
+| projects |  Контрольные проекты |
+| postmortems |  Постмортемы |
+| runbooks |  Runbooks |
+| adr |  Architecture Decision Records |
+| interview-prep |  Подготовка к найму |
 
 ## 🚦 Статус
 
